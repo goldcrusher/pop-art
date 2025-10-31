@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#004aad"/>
+      <stop offset="1" stop-color="#89f7fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <circle cx="600" cy="400" r="200" fill="#fff" opacity="0.12"/>
+  <text x="50%" y="50%" font-size="48" font-family="Montserrat, sans-serif" fill="#fff" text-anchor="middle" dominant-baseline="middle">Surreal Motion (placeholder)</text>
+</svg>
